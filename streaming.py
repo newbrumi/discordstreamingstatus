@@ -20,3 +20,4 @@ async def on_ready():
     print("status on")
 
 bot.run(token, bot=False)
+open = input("Press [Enter] to continue.") 
